@@ -1,4 +1,4 @@
-### Olá! Eu sou o Renan, desenvolvedor de front-end 👩🏻‍💻
+### Olá! Eu sou o Renan, desenvolvedor Full-Stack 👩🏻‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-almeida-168441218/)
 
